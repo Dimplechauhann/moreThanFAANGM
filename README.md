@@ -335,6 +335,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.flexport.com/careers/jobs/">Flexport</a></li>
 <li><a href="https://www.flipkartcareers.com/">Flipkart</a> </li>
 <li><a href="https://www.linkedin.com/company/flyfin-ai/jobs/">FlyFin</a></li>
+    <li><a href="https://www.factspan.com/">Factspan</a></li>    
 <li><a href="https://www.fincover.com/">fincover</a></li>
 <li><a href="https://fractal.ai/job-openings/">Fractal</a>  </li>
 <li><a href="https://frappe.io/careers">Frappe Technologies</a></li>
